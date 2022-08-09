@@ -20,3 +20,10 @@ body{
   color: #0ccac4;
   font-family: 'Bigelow Rules';
 }
+
+@media only screen and (max-width: 600px) {
+  .app-title {
+   font-size: 50px;
+ 
+  }
+ }
